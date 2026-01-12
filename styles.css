@@ -101,7 +101,15 @@ nav li a{
     margin-right: 10px;
     cursor: pointer;
     border: none;
+
 }
+.btn-cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 
 #nonee{
     background-color: rgba(240, 255, 255, 0);
@@ -111,6 +119,11 @@ nav li a{
     padding: 8px 10px;
     margin-left: 10px;
     cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 }
 
 .btn{
@@ -275,4 +288,10 @@ footer hr{
 }
 .extra{
     padding-bottom: 40px;
+}
+.menu a:hover{
+    color: #000000;
+    background-color: #9be6baa8;
+    padding: 10px 20px;
+border-radius: 5px;
 }
