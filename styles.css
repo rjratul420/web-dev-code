@@ -237,3 +237,27 @@ nav li a{
 .last-h button{
     margin-bottom: 15px;
 }
+
+.footer-head{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding: 110px 110px 70px 110px;
+}
+#center{
+    text-align: center;
+    padding: 24px 110px 32px 110px;
+    color: white;
+}
+footer{
+    background-color: #001931;
+
+}
+footer hr{
+    border: 0.5px solid #394b61;
+    margin: 0px 110px;
+}
+#para-f{
+    color: white;
+    padding-bottom: 15px;
+}
