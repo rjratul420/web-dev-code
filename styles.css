@@ -261,3 +261,18 @@ footer hr{
     color: white;
     padding-bottom: 15px;
 }
+.btn-rt:hover{
+    background-color: #8cf3b7;
+    color: #757575;
+}
+.btn:hover{
+    background-color: #8cf3b7;
+    color: #757575;
+}
+#nonee:hover{
+    background-color: #b7e4ca98;
+    color: #ffffffe8;
+}
+.extra{
+    padding-bottom: 40px;
+}
